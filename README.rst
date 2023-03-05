@@ -35,6 +35,13 @@ Characters
   - Included assets: 270×
   - Size: 5.22 MB
   - Including zombie and robot characters
+- `Space Marine <https://www.gameartguppy.com/shop/space-marine/>`_ (gameartguppy.com)
+
+  "Comes with sprites for the following animations:
+
+  - Side animations, including walk, run, jump, punch, idle, and fall/die
+  - Front animations, including jump, steer, fall, and die (meant for games similar to Doodle Jump)
+  - A couple images for icons"
 - `Zombie <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/zombie.png>`_ (github.com/photonstorm)
 
 Colored balls
@@ -61,6 +68,11 @@ Misc
 Space
 -----
 - `Planets <https://kenney.nl/assets/planets>`_ (kenney.nl)
+- `Space Objects <https://www.gameartguppy.com/shop/space-objects/>`_ (gameartguppy.com)
+
+  "An intrepid space flier (with thruster animation), objects to avoid and shoot (asteroids, aliens, 
+  grenades), power ups (and a banana… everyone needs a glowing banana) some weapons fire options, 
+  and of course a big bad boss to fight."
 - `Space Shooter Extension <https://kenney.nl/assets/space-shooter-extension>`_ (kenney.nl)
 
   - "This package includes new sprites that fit the Space Shooter Redux package. 
