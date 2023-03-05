@@ -112,6 +112,8 @@ Vehicles
 
 3D
 ==
+Misc
+----
 - `Conveyor Kit <https://kenney.nl/assets/conveyor-kit>`_ (kenney.nl)
 
   - "This package includes conveyor belts and parts for creating factories and warehouses."
