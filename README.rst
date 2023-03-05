@@ -42,7 +42,7 @@ Misc
 
   - "This package includes tiles to create dungeons and also includes weapons, items and characters."
   - Included assets: 132×
-  - Size 96.22 kB
+  - Size: 96.22 kB
 - `Lazer <https://github.com/photonstorm/phaser3-examples/tree/master/public/assets/animations/lazer>`_ (github.com/photonstorm)
 - `Playing Cards Pack <https://kenney.nl/assets/playing-cards-pack>`_ (kenney.nl)
 
