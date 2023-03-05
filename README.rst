@@ -233,6 +233,14 @@ Army vehicles (e.g. tanks, helicopters)
     - Headquarters buildings
 
     Plus you get a crosshairs sprite, a move sprite, and a 7-sprite explosion animation."
+    
+    .. raw:: html
+
+     <p align="center">
+       <a href="https://www.gameartguppy.com/shop/free-isometric-army/" target="_blank">
+         <img src="https://www.gameartguppy.com/wp-content/uploads/2014/04/Army_isometric_free_sprites_2-510x510.jpg">
+       </a>
+     </p>
 - `Tanks (side view) <https://kenney.nl/assets/tanks>`_ (kenney.nl)
 
   - "Collection of tanks (side) in various color schemes. Includes green, navy, desert and grey styles. 
