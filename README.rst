@@ -13,6 +13,15 @@ Resources for free game assets
 Characters
 ----------
 - `Alien <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/alien.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/alien.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/animations/alien.png">
+       </a>
+     </p>
+     
 - `Animal Pack Redux <https://kenney.nl/assets/animal-pack-redux>`_ (kenney.nl)
 
   - "This updated version of the Animal Pack includes 30 animals each in 8 different styles 
@@ -25,10 +34,26 @@ Characters
   - Size: 3.43 MB
 - `Bubble <https://github.com/photonstorm/phaser3-examples/tree/master/public/assets/animations/bubble>`_ (github.com/photonstorm)
 - `Knight <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/knight.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/knight.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/animations/knight.png">
+       </a>
+     </p>
 - `Mummy <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/mummy37x45.png>`_ (github.com/photonstorm)
 - `Robot <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/robo.png>`_ (github.com/photonstorm)
 - `Soldiers <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/soldier.png>`_ (github.com/photonstorm)
 - `Toon Characters 1 <https://kenney.nl/assets/toon-characters-1>`_ (kenney.nl)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/toon-characters-1" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/61-toon-characters-1/preview_characters.png">
+       </a>
+     </p>
 
   - "This package includes 6 different characters each in 45 poses. Additionally includes separate limbs, vector source 
     file(s) and easy to use spritesheets."
@@ -37,12 +62,28 @@ Characters
   - Including zombie and robot characters
 - `Space Marine <https://www.gameartguppy.com/shop/space-marine/>`_ (gameartguppy.com)
 
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://www.gameartguppy.com/shop/space-marine/" target="_blank">
+         <img src="https://www.gameartguppy.com/wp-content/uploads/2014/06/SpaceMarine_front_sprites.jpg">
+       </a>
+     </p>
+
   "Comes with sprites for the following animations:
 
   - Side animations, including walk, run, jump, punch, idle, and fall/die
   - Front animations, including jump, steer, fall, and die (meant for games similar to Doodle Jump)
   - A couple images for icons"
 - `Zombie <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/zombie.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/zombie.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/animations/zombie.png">
+       </a>
+     </p>
 
 Colored balls
 -------------
@@ -154,6 +195,14 @@ Vehicles
 Misc
 ----
 - `Conveyor Kit <https://kenney.nl/assets/conveyor-kit>`_ (kenney.nl)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/conveyor-kit" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/1-conveyor-kit/preview-kenney.png">
+       </a>
+     </p>
 
   - "This package includes conveyor belts and parts for creating factories and warehouses."
   - Included assets: 50×
