@@ -33,6 +33,14 @@ Characters
   - Included assets: 240×
   - Size: 3.43 MB
 - `Bubble <https://github.com/photonstorm/phaser3-examples/tree/master/public/assets/animations/bubble>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/tree/master/public/assets/animations/bubble" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/animations/bubble/frame1.png">
+       </a>
+     </p>
 - `Knight <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/knight.png>`_ (github.com/photonstorm)
 
   .. raw:: html
@@ -59,7 +67,6 @@ Characters
     file(s) and easy to use spritesheets."
   - Included assets: 270×
   - Size: 5.22 MB
-  - Including zombie and robot characters
 - `Space Marine <https://www.gameartguppy.com/shop/space-marine/>`_ (gameartguppy.com)
 
   .. raw:: html
