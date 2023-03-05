@@ -51,7 +51,23 @@ Characters
        </a>
      </p>
 - `Mummy <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/mummy37x45.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/mummy37x45.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/animations/mummy37x45.png">
+       </a>
+     </p>
 - `Robot <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/robo.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/robo.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/animations/robo.png">
+       </a>
+     </p>
 - `Soldiers <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/soldier.png>`_ (github.com/photonstorm)
 - `Toon Characters 1 <https://kenney.nl/assets/toon-characters-1>`_ (kenney.nl)
 
@@ -95,7 +111,23 @@ Characters
 Colored balls
 -------------
 - `Green ball <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/demoscene/green_ball.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/demoscene/green_ball.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/demoscene/green_ball.png">
+       </a>
+     </p>
 - `Red ball <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/demoscene/ball.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/demoscene/ball.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/demoscene/ball.png">
+       </a>
+     </p>
 
 Misc
 ----
