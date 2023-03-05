@@ -382,7 +382,7 @@ Websites with free game assets
     
       "Attribution is not required but if you choose to credit refer to 'Kenney', 'Kenney.nl' or 'www.kenney.nl'. 
       Do not use our logo as it is reserved for projects by our studio."
-- `github.com/photonstorm/phaser3-examples <https://github.com/photonstorm/phaser3-examples/tree/master/public/assets>`_ (Phaser 3 Examples)
+- `github.com/photonstorm/phaser3-examples <https://github.com/photonstorm/phaser3-examples/tree/master/public/assets>`_
 
   - All of the code in this repo can be browsed at https://labs.phaser.io.
   
