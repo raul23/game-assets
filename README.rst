@@ -302,4 +302,5 @@ Audio
   - "Digital (syntheziser) sound effects including lasers, phasers and other space themed effects."
   - Included assets: 60×
   - Size: 967.16 kB
+  - **`Preview (.ogg) <https://kenney.nl/content/3-assets/129-digital-audio/preview.ogg>`_**
   
