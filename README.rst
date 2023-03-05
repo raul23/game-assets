@@ -1,7 +1,7 @@
 ===========
 Game assets
 ===========
-Resources for game assets
+Resources for free game assets
 
 Characters
 ==========
