@@ -354,8 +354,8 @@ Audio
   - Size: 967.16 kB
   - `Preview <https://kenney.nl/content/3-assets/129-digital-audio/preview.ogg>`_ (.ogg)
 
-Websites
-========
+Websites with free game assets
+==============================
 - `www.gameartguppy.com <https://www.gameartguppy.com/>`_
 
   "GameArtGuppy was created by Vicki Wenderlich to give game devs who can't afford custom art (yet) 
