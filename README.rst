@@ -132,6 +132,14 @@ Colored balls
 Misc
 ----
 - `Diamond <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/diamond.png>`_ (github.com/photonstorm)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/diamond.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/photonstorm/phaser3-examples/master/public/assets/animations/diamond.png">
+       </a>
+     </p>
 - `Tiny Dungeon <https://kenney.nl/assets/tiny-dungeon>`_ (kenney.nl)
 
   - "This package includes tiles to create dungeons and also includes weapons, items and characters."
@@ -183,11 +191,27 @@ Textures
   - Roads: two-way
   - Roads: two-way with larger roads
   - Grass (for menu screens, etc)"
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://www.gameartguppy.com/shop/backgrounds-roads-game-art/" target="_blank">
+         <img src="https://www.gameartguppy.com/wp-content/uploads/2014/04/Traffic1_game-510x510.jpg">
+       </a>
+     </p>
 - `Road Textures <https://kenney.nl/assets/road-textures>`_ (kenney.nl)
 
   - "Over 80 tiles for roads, bridges and water. Originally made in 2013 (old files included), updated in 2019 with new colors, textures and styling."
   - Included assets: 90×
   - Size: 502.33 kB
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/road-textures" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/57-road-textures/preview_kenney.png">
+       </a>
+     </p>
 - `Titles <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/tiles.jpg>`_ (github.com/photonstorm)
 
 Vehicles
@@ -207,18 +231,42 @@ Vehicles
   - "This package includes 50 vehicles including cars, trucks, buses, motorcycles and even some props and animated characters."
   - Included assets: 50×
   - Size: 58.91 kB
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/pixel-vehicle-pack" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/64-pixel-vehicle-pack/preview_kenney.png">
+       </a>
+     </p>
 - `Tanks (side view) <https://kenney.nl/assets/tanks>`_ (kenney.nl)
 
   - "Collection of tanks (side) in various color schemes. Includes green, navy, desert and grey styles. 
     Also includes crates, missiles, barrels, explosions and arrows (for UI)."
   - Included assets: 80×
   - Size: 1.08 MB
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/tanks" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/83-tanks/preview_kenneynl.png">
+       </a>
+     </p>
 - `Top-down Tanks Redux <https://kenney.nl/assets/topdown-tanks-redux>`_ (kenney.nl)
 
   - "This package includes top-down views of tanks with various environmental objects. Included are 
     tanks, missiles, explosions, barrels, crates, trees, roads, oil barrels and more."
   - Included assets: 180×
   - Size: 1.49 MB
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/topdown-tanks-redux" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/77-topdown-tanks-redux/preview_kenney.png">
+       </a>
+     </p>
 - `Vehicles Pack 1 (top-down) <https://www.gameartguppy.com/shop/vehicles-free-game-art/>`_ (gameartguppy.com)
 
   - "A set of 5 vehicles to drive in games:
