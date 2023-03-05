@@ -3,6 +3,11 @@ Game assets
 ===========
 Resources for free game assets
 
+.. contents:: **Contents**
+   :depth: 5
+   :local:
+   :backlinks: top
+
 Characters
 ==========
 - `Alien <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/alien.png>`_ (github.com/photonstorm)
