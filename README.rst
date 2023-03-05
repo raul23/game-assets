@@ -22,3 +22,13 @@ Misc
 ====
 - `Diamond <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/diamond.png>`_ (github.com/photonstorm)
 - `Lazer <https://github.com/photonstorm/phaser3-examples/tree/master/public/assets/animations/lazer>`_ (github.com/photonstorm)
+
+Terrain
+=======
+- `Cave map <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/cave-map3.jpg>`_ (github.com/photonstorm)
+- `Soil <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/soil.png>`_ (github.com/photonstorm)
+
+Textures 
+========
+`Grass <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/grass.jpg>`_ (github.com/photonstorm)
+`Titles <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/tiles.jpg>`_ (github.com/photonstorm)
