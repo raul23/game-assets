@@ -221,6 +221,8 @@ Roads
      
 Vehicles
 --------
+Army vehicles (e.g. tanks, helicopters)
+"""""""""""""""""""""""""""""""""""""""
 - `Free Isometric Army (side view) <https://www.gameartguppy.com/shop/free-isometric-army/>`_ (gameartguppy.com)
 
   - "Red and blue versions of the following:
@@ -231,19 +233,6 @@ Vehicles
     - Headquarters buildings
 
     Plus you get a crosshairs sprite, a move sprite, and a 7-sprite explosion animation."
-- `Pixel Vehicle Pack (side view) <https://kenney.nl/assets/pixel-vehicle-pack>`_ (kenney.nl)
-
-  - "This package includes 50 vehicles including cars, trucks, buses, motorcycles and even some props and animated characters."
-  - Included assets: 50×
-  - Size: 58.91 kB
-  
-  .. raw:: html
-
-     <p align="center">
-       <a href="https://kenney.nl/assets/pixel-vehicle-pack" target="_blank">
-         <img src="https://kenney.nl/content/3-assets/64-pixel-vehicle-pack/preview_kenney.png">
-       </a>
-     </p>
 - `Tanks (side view) <https://kenney.nl/assets/tanks>`_ (kenney.nl)
 
   - "Collection of tanks (side) in various color schemes. Includes green, navy, desert and grey styles. 
@@ -270,6 +259,22 @@ Vehicles
      <p align="center">
        <a href="https://kenney.nl/assets/topdown-tanks-redux" target="_blank">
          <img src="https://kenney.nl/content/3-assets/77-topdown-tanks-redux/preview_kenney.png">
+       </a>
+     </p>
+
+Civilian vehicles (e.g. cars, buses)
+""""""""""""""""""""""""""""""""""""
+- `Pixel Vehicle Pack (side view) <https://kenney.nl/assets/pixel-vehicle-pack>`_ (kenney.nl)
+
+  - "This package includes 50 vehicles including cars, trucks, buses, motorcycles and even some props and animated characters."
+  - Included assets: 50×
+  - Size: 58.91 kB
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/pixel-vehicle-pack" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/64-pixel-vehicle-pack/preview_kenney.png">
        </a>
      </p>
 - `Vehicles Pack 1 (top-down) <https://www.gameartguppy.com/shop/vehicles-free-game-art/>`_ (gameartguppy.com)
