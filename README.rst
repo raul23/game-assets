@@ -182,7 +182,13 @@ Terrain
 
 Textures 
 --------
+Misc
+""""
 - `Grass <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/grass.jpg>`_ (github.com/photonstorm)
+- `Titles <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/tiles.jpg>`_ (github.com/photonstorm)
+
+Roads
+"""""
 - `Road Backgrounds <https://www.gameartguppy.com/shop/backgrounds-roads-game-art/>`_ (gameartguppy.com)
 
   "Backgrounds: 2048×1536 pixels
@@ -212,8 +218,7 @@ Textures
          <img src="https://kenney.nl/content/3-assets/57-road-textures/preview_kenney.png">
        </a>
      </p>
-- `Titles <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/tiles.jpg>`_ (github.com/photonstorm)
-
+     
 Vehicles
 --------
 - `Free Isometric Army (side view) <https://www.gameartguppy.com/shop/free-isometric-army/>`_ (gameartguppy.com)
