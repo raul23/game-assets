@@ -353,4 +353,34 @@ Audio
   - Included assets: 60×
   - Size: 967.16 kB
   - `Preview <https://kenney.nl/content/3-assets/129-digital-audio/preview.ogg>`_ (.ogg)
+
+Websites
+========
+- `www.gameartguppy.com <https://www.gameartguppy.com/>`_
+
+  "GameArtGuppy was created by Vicki Wenderlich to give game devs who can't afford custom art (yet) 
+  an easy way to find and use free and inexpensive art."
   
+  - "Use the art you select in both personal and commercial products." `Read the license >> <http://www.gameartguppy.com/about/license/>`_
+  - `Why do I have to make an account to download the free art? <https://www.gameartguppy.com/about/faq/>`_
+  
+    "So I can see how many people are downloading each item. It's free! I don't spam you. I probably will never email you at all."
+- `kenney.nl <https://kenney.nl/>`_
+
+  "Free game assets, no strings attached.
+  
+  We've created thousands of sprites, 3D models and sound effects which you can use in your projects. 
+  The generous public domain license allows any kind of use, even commercial!"
+  
+  - `FAQs <https://kenney.nl/support>`_
+  
+    - Is it possible to use the game assets in a (commercial) project?
+    
+      "All game assets on this website are public domain CC0 licensed, see the included license file or refer to 
+      the game asset page for full details."
+    - Should attribution be given when the game assets are used?
+    
+      "Attribution is not required but if you choose to credit refer to 'Kenney', 'Kenney.nl' or 'www.kenney.nl'. 
+      Do not use our logo as it is reserved for projects by our studio."
+
+
