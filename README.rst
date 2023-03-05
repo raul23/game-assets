@@ -83,6 +83,14 @@ Terrain
 Textures 
 --------
 - `Grass <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/grass.jpg>`_ (github.com/photonstorm)
+- `Road Backgrounds <https://www.gameartguppy.com/shop/backgrounds-roads-game-art/>`_ (gameartguppy.com)
+
+  "Backgrounds: 2048×1536 pixels
+  
+  - Roads: one-way
+  - Roads: two-way
+  - Roads: two-way with larger roads
+  - Grass (for menu screens, etc)"
 - `Road Textures <https://kenney.nl/assets/road-textures>`_ (kenney.nl)
 
   - "Over 80 tiles for roads, bridges and water. Originally made in 2013 (old files included), updated in 2019 with new colors, textures and styling."
@@ -92,12 +100,22 @@ Textures
 
 Vehicles
 --------
-- `Pixel Vehicle Pack <https://kenney.nl/assets/pixel-vehicle-pack>`_ (kenney.nl)
+- `Free Isometric Army (side view) <https://www.gameartguppy.com/shop/free-isometric-army/>`_ (gameartguppy.com)
+
+  - "Red and blue versions of the following:
+  
+    - Soldiers – 4 directions
+    - Tanks – 2 types, 4 directions each
+    - Helicopters – 4 directions
+    - Headquarters buildings
+
+    Plus you get a crosshairs sprite, a move sprite, and a 7-sprite explosion animation."
+- `Pixel Vehicle Pack (side view) <https://kenney.nl/assets/pixel-vehicle-pack>`_ (kenney.nl)
 
   - "This package includes 50 vehicles including cars, trucks, buses, motorcycles and even some props and animated characters."
   - Included assets: 50×
   - Size: 58.91 kB
-- `Tanks <https://kenney.nl/assets/tanks>`_ (kenney.nl)
+- `Tanks (side view) <https://kenney.nl/assets/tanks>`_ (kenney.nl)
 
   - "Collection of tanks (side) in various color schemes. Includes green, navy, desert and grey styles. 
     Also includes crates, missiles, barrels, explosions and arrows (for UI)."
@@ -109,6 +127,15 @@ Vehicles
     tanks, missiles, explosions, barrels, crates, trees, roads, oil barrels and more."
   - Included assets: 180×
   - Size: 1.49 MB
+- `Vehicles Pack 1 (top-down) <https://www.gameartguppy.com/shop/vehicles-free-game-art/>`_ (gameartguppy.com)
+
+  - "A set of 5 vehicles to drive in games:
+
+    - Red sporty car
+    - Blue sedan
+    - Cop car
+    - Green Pickup truck
+    - Commercial Truck"
 
 3D
 ==
