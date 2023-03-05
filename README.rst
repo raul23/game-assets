@@ -8,16 +8,10 @@ Resources for free game assets
    :local:
    :backlinks: top
 
-Audio
-=====
-- `Digital Audio (space themed effects) <https://kenney.nl/assets/digital-audio>`_ (kenney.nl)
-
-  - "Digital (syntheziser) sound effects including lasers, phasers and other space themed effects."
-  - Included assets: 60×
-  - Size: 967.16 kB
-
+2D
+==
 Characters
-==========
+----------
 - `Alien <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/alien.png>`_ (github.com/photonstorm)
 - `Animal Pack Redux <https://kenney.nl/assets/animal-pack-redux>`_ (kenney.nl)
 
@@ -44,12 +38,12 @@ Characters
 - `Zombie <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/zombie.png>`_ (github.com/photonstorm)
 
 Colored balls
-=============
+-------------
 - `Green ball <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/demoscene/green_ball.png>`_ (github.com/photonstorm)
 - `Red ball <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/demoscene/ball.png>`_ (github.com/photonstorm)
 
 Misc
-====
+----
 - `Diamond <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/diamond.png>`_ (github.com/photonstorm)
 - `Tiny Dungeon <https://kenney.nl/assets/tiny-dungeon>`_ (kenney.nl)
 
@@ -65,7 +59,7 @@ Misc
   - Size: 187.49 kB
   
 Space
-=====
+-----
 - `Planets <https://kenney.nl/assets/planets>`_ (kenney.nl)
 - `Space Shooter Extension <https://kenney.nl/assets/space-shooter-extension>`_ (kenney.nl)
 
@@ -82,12 +76,12 @@ Space
   - Size: 1.06 MB
 
 Terrain
-=======
+-------
 - `Cave map <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/cave-map3.jpg>`_ (github.com/photonstorm)
 - `Soil <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/soil.png>`_ (github.com/photonstorm)
 
 Textures 
-========
+--------
 - `Grass <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/grass.jpg>`_ (github.com/photonstorm)
 - `Road Textures <https://kenney.nl/assets/road-textures>`_ (kenney.nl)
 
@@ -97,7 +91,7 @@ Textures
 - `Titles <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/tiles.jpg>`_ (github.com/photonstorm)
 
 Vehicles
-========
+--------
 - `Pixel Vehicle Pack <https://kenney.nl/assets/pixel-vehicle-pack>`_ (kenney.nl)
 
   - "This package includes 50 vehicles including cars, trucks, buses, motorcycles and even some props and animated characters."
@@ -115,4 +109,20 @@ Vehicles
     tanks, missiles, explosions, barrels, crates, trees, roads, oil barrels and more."
   - Included assets: 180×
   - Size: 1.49 MB
+
+3D
+==
+- `Conveyor Kit <https://kenney.nl/assets/conveyor-kit>`_ (kenney.nl)
+
+  - "This package includes conveyor belts and parts for creating factories and warehouses."
+  - Included assets: 50×
+  - Size: 1.28 MB
+
+Audio
+=====
+- `Digital Audio (space themed effects) <https://kenney.nl/assets/digital-audio>`_ (kenney.nl)
+
+  - "Digital (syntheziser) sound effects including lasers, phasers and other space themed effects."
+  - Included assets: 60×
+  - Size: 967.16 kB
   
