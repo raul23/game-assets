@@ -203,7 +203,7 @@ Space
 
      <p align="center">
        <a href="https://kenney.nl/assets/space-shooter-redux" target="_blank">
-         <img src="https://kenney.nl/assets/space-shooter-redux">
+         <img src="https://kenney.nl/content/3-assets/160-space-shooter-redux/spaceshooter.png">
        </a>
      </p>
 
