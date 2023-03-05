@@ -1,7 +1,7 @@
 ===========
 Game assets
 ===========
-Free game assets
+Resources for game assets
 
 Colored balls
 =============
