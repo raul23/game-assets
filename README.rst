@@ -145,6 +145,14 @@ Misc
   - "This package includes tiles to create dungeons and also includes weapons, items and characters."
   - Included assets: 132×
   - Size: 96.22 kB
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/tiny-dungeon" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/16-tiny-dungeon/preview_kenney.png">
+       </a>
+     </p>
 - `Lazer <https://github.com/photonstorm/phaser3-examples/tree/master/public/assets/animations/lazer>`_ (github.com/photonstorm)
 - `Playing Cards Pack <https://kenney.nl/assets/playing-cards-pack>`_ (kenney.nl)
 
@@ -153,9 +161,25 @@ Misc
   - Included assets: 270×
   - Size: 187.49 kB
   
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/playing-cards-pack" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/38-playing-cards-pack/preview_kenney.png">
+       </a>
+     </p>
+  
 Space
 -----
 - `Planets <https://kenney.nl/assets/planets>`_ (kenney.nl)
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/planets" target="_blank">
+         <img src="https://kenney.nl/content/3-assets/14-planets/preview_kenney.png">
+       </a>
+     </p>
 - `Space Objects <https://www.gameartguppy.com/shop/space-objects/>`_ (gameartguppy.com)
 
   "An intrepid space flier (with thruster animation), objects to avoid and shoot (asteroids, aliens, 
@@ -174,6 +198,14 @@ Space
     enemies, power-ups, UI elements, numbers and elements to create your own enemies!"
   - Included assets: 295×
   - Size: 1.06 MB
+  
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://kenney.nl/assets/space-shooter-redux" target="_blank">
+         <img src="https://kenney.nl/assets/space-shooter-redux">
+       </a>
+     </p>
 
 Terrain
 -------
