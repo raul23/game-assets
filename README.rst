@@ -8,6 +8,14 @@ Resources for free game assets
    :local:
    :backlinks: top
 
+Audio
+=====
+- `Digital Audio (space themed effects) <https://kenney.nl/assets/digital-audio>`_ (kenney.nl)
+
+  - "Digital (syntheziser) sound effects including lasers, phasers and other space themed effects."
+  - Included assets: 60×
+  - Size: 967.16 kB
+
 Characters
 ==========
 - `Alien <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/animations/alien.png>`_ (github.com/photonstorm)
