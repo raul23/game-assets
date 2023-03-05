@@ -30,5 +30,5 @@ Terrain
 
 Textures 
 ========
-`Grass <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/grass.jpg>`_ (github.com/photonstorm)
-`Titles <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/tiles.jpg>`_ (github.com/photonstorm)
+- `Grass <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/grass.jpg>`_ (github.com/photonstorm)
+- `Titles <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/textures/tiles.jpg>`_ (github.com/photonstorm)
