@@ -108,6 +108,27 @@ Characters
        </a>
      </p>
 
+Board games
+-----------
+- From `Hoijof's phaserChess <https://github.com/Hoijof/phaserChess>`_
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/Hoijof/phaserChess/tree/master/assets" target="_blank">
+         <img src="https://raw.githubusercontent.com/Hoijof/phaserChess/master/assets/chess_pieces.png">
+       </a>
+     </p>
+- From `Jexan's ChessJs <https://github.com/Jexan/ChessJs>`_
+
+  .. raw:: html
+
+     <p align="center">
+       <a href="https://github.com/Jexan/ChessJs/blob/master/imgs/assets.png" target="_blank">
+         <img src="https://raw.githubusercontent.com/Jexan/ChessJs/master/imgs/assets.png">
+       </a>
+     </p>
+
 Colored balls
 -------------
 - `Green ball <https://github.com/photonstorm/phaser3-examples/blob/master/public/assets/demoscene/green_ball.png>`_ (github.com/photonstorm)
